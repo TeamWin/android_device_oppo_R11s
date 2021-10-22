@@ -18,5 +18,6 @@
 -include device/oppo/sdm660-common/BoardConfigCommon.mk
 
 # Recovery
+TARGET_RECOVERY_FSTAB := device/oppo/R11s/recovery.fstab
 TARGET_SCREEN_WIDTH := 1080
 TARGET_SCREEN_HEIGHT := 2160
